@@ -1,22 +1,27 @@
+## Study Plan
+Research_Material - [Paper_List](topics/Paper_List.md) | Prog - [Programming](topics/programming.md)
+| QF-[Quantitative Finance](topics/quantitative_finace.md)
+
+
 ## 2019-11
-Work hard for ICML.
+Work hard for ICML and ECCV.
+
 Prepare CVPR submissions and supplementary materials.
 
 ### Reading
-* 3D Pose Estimation (Emphasis on Unsupervised Task)
-  * [ ] Unsupervised 3D Pose Estimation with Geometric Self-Supervision 
+* 3D Pose Estimation
+    * [ ] The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation ([arXiv](https://arxiv.org/abs/1911.07524))([zhihu](https://zhuanlan.zhihu.com/p/92525039))
+    * [ ] MaskedFusion: Mask-based 6D Object Pose Detection ([arXiv](https://arxiv.org/abs/1911.07771))([code](https://github.com/kroglice/MaskedFusion))
+    * [X] Unsupervised 3D Pose Estimation with Geometric Self-Supervision 
+* NAS
+    * [ ] Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching ([arXiv](https://arxiv.org/abs/1911.04131))
+* Tracking
+    * [ ] You Only Look Once: Unified, Real-Time Object Detection ([arXiv](https://arxiv.org/abs/1506.02640))
+* Detection
+    * [ ] EfficientDet: Scalable and Efficient Object Detection ([arXiv](https://arxiv.org/abs/1911.09070))([zhihu](https://zhuanlan.zhihu.com/p/93241232))
 
 ## 2019-10
 Work hard for CVPR2020 and PRCV2019 Challenge workshop (**Rank eighth**).
-### Materials
-* 2D Pose Estimation
-    * Simple Baselines for Human Pose Estimation and Tracking ([ECCV2018](https://arxiv.org/abs/1804.06208))([code][https://github.com/microsoft/human-pose-estimation.pytorch])
-    * Deep High-Resolution Representation Learning for Human Pose Estimation ([CVPR2019](https://arxiv.org/abs/1902.09212))([code](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch))
-* 3D Pose Estimation
-    * A simple yet effective baseline for 3d human pose estimation ([ICCV2017](https://arxiv.org/pdf/1705.03098.pdf))([code](https://github.com/una-dinosauria/3d-pose-baseline))
-* 3D Human Reconstruction
-* NAS
-
 
 ## 2019-9
 Start for PHD in Vision and Learning Lab supervised by Bingbing Ni and Wenjun Zhang.
