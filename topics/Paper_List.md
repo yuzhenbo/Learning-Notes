@@ -19,7 +19,6 @@
 ### 3D Human Reconstruction
 * End-to-end Recovery of Human Shape and Pose ([CVPR'18](https://arxiv.org/abs/1712.06584))([code](https://github.com/akanazawa/hmr))
 * Convolutional Mesh Regression for Single-Image Human Shape Reconstruction ([CVPR'19](https://arxiv.org/pdf/1905.03244.pdf))([code](https://github.com/nkolot/GraphCMR))
-* 
 
 ### NAS
 * DARTS: Differentiable Architecture Search ([arXiv](https://arxiv.org/abs/1806.09055))([code](https://github.com/quark0/darts))
