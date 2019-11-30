@@ -20,9 +20,9 @@ Prepare CVPR submissions and supplementary materials.
     * [ ] The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation ([arXiv](https://arxiv.org/abs/1911.07524))([zhihu](https://zhuanlan.zhihu.com/p/92525039))
     * [ ] MaskedFusion: Mask-based 6D Object Pose Detection ([arXiv](https://arxiv.org/abs/1911.07771))([code](https://github.com/kroglice/MaskedFusion))   
 * Unsupervised 3D Pose Estimation
-    * [ ] Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation ([CVPR'19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Weakly-Supervised_Discovery_of_Geometry-Aware_Representation_for_3D_Human_Pose_Estimation_CVPR_2019_paper.pdf))
-    * [ ] Unsupervised Keypoint Learning for Guiding Class-Conditional Video Prediction ([NIPS'19](https://openreview.net/pdf?id=rkl-dNHl8B))
-    * [ ] Discovery of Latent 3D Keypoints via End-to-end Geometric Reasoning ([NIPS'18](https://arxiv.org/abs/1807.03146))
+    * [X] Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation ([CVPR'19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Weakly-Supervised_Discovery_of_Geometry-Aware_Representation_for_3D_Human_Pose_Estimation_CVPR_2019_paper.pdf))
+    * [X] Unsupervised Keypoint Learning for Guiding Class-Conditional Video Prediction ([NIPS'19](https://openreview.net/pdf?id=rkl-dNHl8B))
+    * [X] Discovery of Latent 3D Keypoints via End-to-end Geometric Reasoning ([NIPS'18](https://arxiv.org/abs/1807.03146))
     * [X] Domes to Drones: Self-Supervised Active Triangulation for 3D Human Pose Reconstruction([NIPS'19](http://papers.nips.cc/paper/8646-domes-to-drones-self-supervised-active-triangulation-for-3d-human-pose-reconstruction.pdf))
     * [X] Unsupervised 3D Pose Estimation with Geometric Self-Supervision
 * Graph
