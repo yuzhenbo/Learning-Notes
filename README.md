@@ -3,6 +3,8 @@ Research_Material - [Paper_List](topics/Paper_List.md) | Prog - [Programming](to
 | QF-[Quantitative Finance](topics/quantitative_finace.md)
 
 ## 2019-12
+Fortunately, i am invited to the award ceremony of IJSAI 2019.
+
 ### Study
 
 * pytorch acceleration
