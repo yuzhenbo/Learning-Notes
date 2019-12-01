@@ -3,9 +3,19 @@ Research_Material - [Paper_List](topics/Paper_List.md) | Prog - [Programming](to
 | QF-[Quantitative Finance](topics/quantitative_finace.md)
 
 ## 2019-12
+### Study
+
+* pytorch acceleration
+    * [ ] dali ([install guide](https://docs.nvidia.com/deeplearning/sdk/dali-developer-guide/docs/installation.html))([code](https://github.com/NVIDIA/DALI))
+    * [ ] apex ([offical guide](https://nvidia.github.io/apex/index.html))([教程](https://chenyue.top/2019/05/21/%E5%B7%A5%E7%A8%8B-%E4%BA%94-apex%E6%B7%B7%E5%90%88%E7%B2%BE%E5%BA%A6%E5%8A%A0%E9%80%9F/))
+
 ### Reading
 * 3D Mesh Reconstruction
-
+* 2D Pose Estimation
+    * [ ] Pose Neural Fabrics Search ([arXiv](https://arxiv.org/pdf/1909.07068.pdf))([code](https://github.com/yangsenius/PoseNFS))
+* Render
+    * [ ] Fashion++: Minimal Edits for Outfit Improvement ([ICCV19](https://arxiv.org/abs/1904.09261))([code](https://github.com/facebookresearch/FashionPlus)) : Borrow from [BicycGAN](https://github.com/junyanz/BicycleGAN) and [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
+    
 
 ## 2019-11
 Main focus: preparing for ICML and ECCV.
