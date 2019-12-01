@@ -16,11 +16,11 @@ Fortunately, i am invited to the award ceremony of IJSAI 2019.
 * 2D Pose Estimation
     * [ ] Pose Neural Fabrics Search ([arXiv](https://arxiv.org/pdf/1909.07068.pdf))([code](https://github.com/yangsenius/PoseNFS))
 * Detection
-    * [ ] ThunderNet: Towards Real-time Generic Object Detection ([ICCV19](https://arxiv.org/pdf/1903.11752.pdf))([code]())
+    * [ ] ThunderNet: Towards Real-time Generic Object Detection ([ICCV19](https://arxiv.org/pdf/1903.11752.pdf))
     * [ ] ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design([arXiv](https://arxiv.org/pdf/1807.11164.pdf))
     * [ ] Light-Head R-CNN: In Defense of Two-Stage Object Detector([arXiv](https://arxiv.org/pdf/1711.07264.pdf))
 * NAS
-    * [ ] Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search ([arXiv]https://arxiv.org/abs/1911.12126)([code](https://github.com/xiaomi-automl/fairdarts))
+    * [ ] Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search ([arXiv](https://arxiv.org/abs/1911.12126))([code](https://github.com/xiaomi-automl/fairdarts))
 * Render
     * [ ] Fashion++: Minimal Edits for Outfit Improvement ([ICCV19](https://arxiv.org/abs/1904.09261))([code](https://github.com/facebookresearch/FashionPlus)) : Borrow from [BicycGAN](https://github.com/junyanz/BicycleGAN) and [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
     
