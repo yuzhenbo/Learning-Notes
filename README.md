@@ -15,6 +15,12 @@ Fortunately, i am invited to the award ceremony of IJSAI 2019.
 * 3D Mesh Reconstruction
 * 2D Pose Estimation
     * [ ] Pose Neural Fabrics Search ([arXiv](https://arxiv.org/pdf/1909.07068.pdf))([code](https://github.com/yangsenius/PoseNFS))
+* Detection
+    * [ ] ThunderNet: Towards Real-time Generic Object Detection ([ICCV19](https://arxiv.org/pdf/1903.11752.pdf))([code]())
+    * [ ] ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design([arXiv](https://arxiv.org/pdf/1807.11164.pdf))
+    * [ ] Light-Head R-CNN: In Defense of Two-Stage Object Detector([arXiv](https://arxiv.org/pdf/1711.07264.pdf))
+* NAS
+    * [ ] Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search ([arXiv]https://arxiv.org/abs/1911.12126)([code](https://github.com/xiaomi-automl/fairdarts))
 * Render
     * [ ] Fashion++: Minimal Edits for Outfit Improvement ([ICCV19](https://arxiv.org/abs/1904.09261))([code](https://github.com/facebookresearch/FashionPlus)) : Borrow from [BicycGAN](https://github.com/junyanz/BicycleGAN) and [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
     
@@ -44,7 +50,6 @@ Prepare CVPR submissions and supplementary materials.
 * NAS
     * [X] ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware ([ICLR19](https://arxiv.org/pdf/1812.00332.pdf))([code](https://github.com/mit-han-lab/ProxylessNAS))
     * [X] FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search ([facebook](https://arxiv.org/abs/1812.03443))([code](https://github.com/AnnaAraslanova/FBNet))
-    * [X] Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search ([arXiv]https://arxiv.org/abs/1911.12126)([code](https://github.com/xiaomi-automl/fairdarts))
     * [X] Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching ([arXiv](https://arxiv.org/abs/1911.04131))
 * Tracking
     * [ ] You Only Look Once: Unified, Real-Time Object Detection ([arXiv](https://arxiv.org/abs/1506.02640))
