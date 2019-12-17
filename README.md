@@ -27,6 +27,7 @@ Fortunately, i am invited to the award ceremony of IJSAI 2019.
     * [ ] The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation ([arXiv](https://arxiv.org/abs/1911.07524))([zhihu](https://zhuanlan.zhihu.com/p/92525039))
     * [ ] MaskedFusion: Mask-based 6D Object Pose Detection ([arXiv](https://arxiv.org/abs/1911.07771))([code](https://github.com/kroglice/MaskedFusion))   
 * Detection
+    * [ ] EfficientDet: Scalable and Efficient Object Detection ([arXiv](https://arxiv.org/abs/1911.09070))([zhihu](https://zhuanlan.zhihu.com/p/93241232))
     * [ ] Detectron2 ([project](https://github.com/facebookresearch/detectron2))
     * [ ] ThunderNet: Towards Real-time Generic Object Detection ([ICCV19](https://arxiv.org/pdf/1903.11752.pdf))
     * [ ] ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design([arXiv](https://arxiv.org/pdf/1807.11164.pdf))
@@ -46,8 +47,7 @@ Fortunately, i am invited to the award ceremony of IJSAI 2019.
     * [ ] Neural Painters: A learned differentiable constraint for generating brushstroke paintings ([arXiv](https://arxiv.org/pdf/1904.08410v2.pdf))([code](https://github.com/reiinakano/neural-painters))
 * Tracking
     * [ ] You Only Look Once: Unified, Real-Time Object Detection ([arXiv](https://arxiv.org/abs/1506.02640))
-* Detection
-    * [ ] EfficientDet: Scalable and Efficient Object Detection ([arXiv](https://arxiv.org/abs/1911.09070))([zhihu](https://zhuanlan.zhihu.com/p/93241232))
+
 
 
 ## 2019-11
