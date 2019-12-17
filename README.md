@@ -17,12 +17,16 @@ Fortunately, i am invited to the award ceremony of IJSAI 2019.
     * [ ] apex ([offical guide](https://nvidia.github.io/apex/index.html))([教程](https://chenyue.top/2019/05/21/%E5%B7%A5%E7%A8%8B-%E4%BA%94-apex%E6%B7%B7%E5%90%88%E7%B2%BE%E5%BA%A6%E5%8A%A0%E9%80%9F/))
 
 ### Reading
+
 * 3D Mesh Reconstruction
     * [ ] VIBE: Video Inference for Human Body Pose and Shape Estimation ([arXiv](https://arxiv.org/pdf/1912.05656v1.pdf))([code](https://github.com/mkocabas/VIBE))
 * 2D Pose Estimation
     * [ ] Pose Neural Fabrics Search ([arXiv](https://arxiv.org/pdf/1909.07068.pdf))([code](https://github.com/yangsenius/PoseNFS))
 * 3D Pose Estimation
     * [ ] RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation([CVPR'19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wandt_RepNet_Weakly_Supervised_Training_of_an_Adversarial_Reprojection_Network_for_CVPR_2019_paper.pdf))([code](https://github.com/bastianwandt/RepNet))
+    * [ ] Bottom-up Higher-Resolution Networks for Multi-Person Pose Estimation ([arXiv](https://arxiv.org/abs/1908.10357))([code](https://github.com/HRNet/Higher-HRNet-Human-Pose-Estimation))
+    * [ ] The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation ([arXiv](https://arxiv.org/abs/1911.07524))([zhihu](https://zhuanlan.zhihu.com/p/92525039))
+    * [ ] MaskedFusion: Mask-based 6D Object Pose Detection ([arXiv](https://arxiv.org/abs/1911.07771))([code](https://github.com/kroglice/MaskedFusion))   
 * Detection
     * [ ] Detectron2 ([project](https://github.com/facebookresearch/detectron2))
     * [ ] ThunderNet: Towards Real-time Generic Object Detection ([ICCV19](https://arxiv.org/pdf/1903.11752.pdf))
@@ -37,8 +41,16 @@ Fortunately, i am invited to the award ceremony of IJSAI 2019.
 * Render
     * [ ] Few-shot Video-to-Video Synthesis ([NIPS'19](https://arxiv.org/pdf/1910.12713.pdf))([code](https://github.com/NVlabs/few-shot-vid2vid))
     * [ ] Fashion++: Minimal Edits for Outfit Improvement ([ICCV19](https://arxiv.org/abs/1904.09261))([code](https://github.com/facebookresearch/FashionPlus)) : Borrow from [BicycGAN](https://github.com/junyanz/BicycleGAN) and [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
- * RL
+    * [ ] DeepFovea: Neural Reconstruction for Foveated Rendering and Video Compression using Learned Statistics of Natural Videos ([Facebook Reality Labs](https://research.fb.com/wp-content/uploads/2019/11/DeepFovea-Neural-Reconstruction-for-Foveated-Rendering-and-Video-Compression-using-Learned-Statistics-of-Natural-Videos.pdf?))
+    * [ ] Animating Landscape: Self-Supervised Learning of Decoupled Motion and Appearance for Single-Image Video Synthesis ([TOG'19](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/animating_landscape_siga19.pdf))([project](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/))([code](https://github.com/endo-yuki-t/Animating-Landscape))
+
+* RL
     * [ ] Neural Painters: A learned differentiable constraint for generating brushstroke paintings ([arXiv](https://arxiv.org/pdf/1904.08410v2.pdf))([code](https://github.com/reiinakano/neural-painters))
+* Tracking
+    * [ ] You Only Look Once: Unified, Real-Time Object Detection ([arXiv](https://arxiv.org/abs/1506.02640))
+* Detection
+    * [ ] EfficientDet: Scalable and Efficient Object Detection ([arXiv](https://arxiv.org/abs/1911.09070))([zhihu](https://zhuanlan.zhihu.com/p/93241232))
+
 
 ## 2019-11
 Main focus: preparing for ICML and ECCV.
@@ -48,10 +60,7 @@ Prepare CVPR submissions and supplementary materials.
 * [X] Graph Convolutional Network ([Graph本质解析](https://www.zhihu.com/question/54504471))
 
 ### Reading
-* 3D Pose Estimation
-    * [ ] Bottom-up Higher-Resolution Networks for Multi-Person Pose Estimation ([arXiv](https://arxiv.org/abs/1908.10357))([code](https://github.com/HRNet/Higher-HRNet-Human-Pose-Estimation))
-    * [ ] The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation ([arXiv](https://arxiv.org/abs/1911.07524))([zhihu](https://zhuanlan.zhihu.com/p/92525039))
-    * [ ] MaskedFusion: Mask-based 6D Object Pose Detection ([arXiv](https://arxiv.org/abs/1911.07771))([code](https://github.com/kroglice/MaskedFusion))   
+
 * Unsupervised 3D Pose Estimation
     * [X] Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation ([CVPR'19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Weakly-Supervised_Discovery_of_Geometry-Aware_Representation_for_3D_Human_Pose_Estimation_CVPR_2019_paper.pdf))
     * [X] Unsupervised Keypoint Learning for Guiding Class-Conditional Video Prediction ([NIPS'19](https://openreview.net/pdf?id=rkl-dNHl8B))
@@ -66,13 +75,7 @@ Prepare CVPR submissions and supplementary materials.
     * [X] ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware ([ICLR19](https://arxiv.org/pdf/1812.00332.pdf))([code](https://github.com/mit-han-lab/ProxylessNAS))
     * [X] FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search ([facebook](https://arxiv.org/abs/1812.03443))([code](https://github.com/AnnaAraslanova/FBNet))
     * [X] Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching ([arXiv](https://arxiv.org/abs/1911.04131))
-* Tracking
-    * [ ] You Only Look Once: Unified, Real-Time Object Detection ([arXiv](https://arxiv.org/abs/1506.02640))
-* Detection
-    * [ ] EfficientDet: Scalable and Efficient Object Detection ([arXiv](https://arxiv.org/abs/1911.09070))([zhihu](https://zhuanlan.zhihu.com/p/93241232))
-* Render
-    * [ ] DeepFovea: Neural Reconstruction for Foveated Rendering and Video Compression using Learned Statistics of Natural Videos ([Facebook Reality Labs](https://research.fb.com/wp-content/uploads/2019/11/DeepFovea-Neural-Reconstruction-for-Foveated-Rendering-and-Video-Compression-using-Learned-Statistics-of-Natural-Videos.pdf?))
-    * [ ] Animating Landscape: Self-Supervised Learning of Decoupled Motion and Appearance for Single-Image Video Synthesis ([TOG'19](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/animating_landscape_siga19.pdf))([project](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/))([code](https://github.com/endo-yuki-t/Animating-Landscape))
+
 ## 2019-10
 Work hard for CVPR2020 and PRCV2019 Challenge workshop (**Rank 8th**).
 
