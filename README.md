@@ -6,24 +6,39 @@ Research_Material - [Paper_List](topics/Paper_List.md) | Prog - [Programming](to
 Fortunately, i am invited to the award ceremony of IJSAI 2019.
 
 ### Study
-
+* Basic
+    * [X] Depthwise Separable Convolution ([Youtobe](https://www.youtube.com/watch?v=T7o3xvJLuHk))
+    * [ ] MobileNetV1([paper](https://arxiv.org/abs/1704.04861));MobileNetV2([paper]());MobileNetV3
+* GNN
+    * [ ] CS224W: Machine Learning with Graphs ([project](http://web.stanford.edu/class/cs224w/))
+    * [ ] Deep Learning on Graphs: a roadmap ([github](https://github.com/guillaumejaume/graph-neural-networks-roadmap))
 * pytorch acceleration
     * [ ] dali ([install guide](https://docs.nvidia.com/deeplearning/sdk/dali-developer-guide/docs/installation.html))([code](https://github.com/NVIDIA/DALI))
     * [ ] apex ([offical guide](https://nvidia.github.io/apex/index.html))([教程](https://chenyue.top/2019/05/21/%E5%B7%A5%E7%A8%8B-%E4%BA%94-apex%E6%B7%B7%E5%90%88%E7%B2%BE%E5%BA%A6%E5%8A%A0%E9%80%9F/))
 
 ### Reading
 * 3D Mesh Reconstruction
+    * [ ] VIBE: Video Inference for Human Body Pose and Shape Estimation ([arXiv](https://arxiv.org/pdf/1912.05656v1.pdf))([code](https://github.com/mkocabas/VIBE))
 * 2D Pose Estimation
     * [ ] Pose Neural Fabrics Search ([arXiv](https://arxiv.org/pdf/1909.07068.pdf))([code](https://github.com/yangsenius/PoseNFS))
+* 3D Pose Estimation
+    * [ ] RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation([CVPR'19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wandt_RepNet_Weakly_Supervised_Training_of_an_Adversarial_Reprojection_Network_for_CVPR_2019_paper.pdf))([code](https://github.com/bastianwandt/RepNet))
 * Detection
+    * [ ] Detectron2 ([project](https://github.com/facebookresearch/detectron2))
     * [ ] ThunderNet: Towards Real-time Generic Object Detection ([ICCV19](https://arxiv.org/pdf/1903.11752.pdf))
     * [ ] ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design([arXiv](https://arxiv.org/pdf/1807.11164.pdf))
     * [ ] Light-Head R-CNN: In Defense of Two-Stage Object Detector([arXiv](https://arxiv.org/pdf/1711.07264.pdf))
 * NAS
+    * [ ] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks ([arXiv](https://arxiv.org/pdf/1905.11946.pdf))([code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet))
+    * [ ] Blockwisely Supervised Neural Architecture Search with Knowledge Distillation ([arXiv](https://128.84.21.199/abs/1911.13053))
     * [ ] Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search ([arXiv](https://arxiv.org/abs/1911.12126))([code](https://github.com/xiaomi-automl/fairdarts))
+* Pruning
+    * [ ] Global Sparse Momentum SGD for Pruning Very Deep Neural Networks ([NIPS'19](https://arxiv.org/pdf/1909.12778v3.pdf))([code](https://github.com/DingXiaoH/ACNet))
 * Render
+    * [ ] Few-shot Video-to-Video Synthesis ([NIPS'19](https://arxiv.org/pdf/1910.12713.pdf))([code](https://github.com/NVlabs/few-shot-vid2vid))
     * [ ] Fashion++: Minimal Edits for Outfit Improvement ([ICCV19](https://arxiv.org/abs/1904.09261))([code](https://github.com/facebookresearch/FashionPlus)) : Borrow from [BicycGAN](https://github.com/junyanz/BicycleGAN) and [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
-    
+ * RL
+    * [ ] Neural Painters: A learned differentiable constraint for generating brushstroke paintings ([arXiv](https://arxiv.org/pdf/1904.08410v2.pdf))([code](https://github.com/reiinakano/neural-painters))
 
 ## 2019-11
 Main focus: preparing for ICML and ECCV.
