@@ -2,24 +2,29 @@
 Research_Material - [Paper_List](topics/Paper_List.md) | Prog - [Programming](topics/programming.md)
 | QF-[Quantitative Finance](topics/quantitative_finace.md)
 
+## 2020-2
+### Study
+### Reading
+
 ## 2020-1
+Chinese new year is comming, I wish all Chinese could be safe under the threat of 2019-nCoV, hope everything works well.
 ### Study
 * Basic
     * [ ] MobileNetV2([paper]());MobileNetV3
 
 ### Reading
 * Loss
-    * [ ] Bayesian Loss for Crowd Count Estimation with Point Supervision ([iccv19](https://arxiv.org/abs/1908.03684))([code](https://github.com/ZhihengCV/Bayesian-Crowd-Counting))
+    * [x] Bayesian Loss for Crowd Count Estimation with Point Supervision ([iccv19](https://arxiv.org/abs/1908.03684))([code](https://github.com/ZhihengCV/Bayesian-Crowd-Counting))
 * Unsupervised
-    * [ ] Object landmark discovery through unsupervised adaptation ([NIPS'19](https://papers.nips.cc/paper/9505-object-landmark-discovery-through-unsupervised-adaptation.pdf))([code](https://github.com/ESanchezLozano/SAIC-Unsupervised-landmark-detection-NeurIPS2019))
+    * [x] Object landmark discovery through unsupervised adaptation ([NIPS'19](https://papers.nips.cc/paper/9505-object-landmark-discovery-through-unsupervised-adaptation.pdf))([code](https://github.com/ESanchezLozano/SAIC-Unsupervised-landmark-detection-NeurIPS2019))
     
 * 3D Pose Estimation
     * [X] On Boosting Single-Frame 3D Human Pose Estimation via Monocular Videos ([iccv19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_On_Boosting_Single-Frame_3D_Human_Pose_Estimation_via_Monocular_Videos_ICCV_2019_paper.pdf))
-    * [ ] XNect: Real-time Multi-person 3D Human Pose Estimation with a Single RGB Camera ([arXiv](https://arxiv.org/abs/1907.00837))
-    * [ ] RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation([CVPR'19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wandt_RepNet_Weakly_Supervised_Training_of_an_Adversarial_Reprojection_Network_for_CVPR_2019_paper.pdf))([code](https://github.com/bastianwandt/RepNet))
-    * [ ] Bottom-up Higher-Resolution Networks for Multi-Person Pose Estimation ([arXiv](https://arxiv.org/abs/1908.10357))([code](https://github.com/HRNet/Higher-HRNet-Human-Pose-Estimation))
-    * [ ] The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation ([arXiv](https://arxiv.org/abs/1911.07524))([zhihu](https://zhuanlan.zhihu.com/p/92525039))
-    * [ ] MaskedFusion: Mask-based 6D Object Pose Detection ([arXiv](https://arxiv.org/abs/1911.07771))([code](https://github.com/kroglice/MaskedFusion))   
+    * [x] XNect: Real-time Multi-person 3D Human Pose Estimation with a Single RGB Camera ([arXiv](https://arxiv.org/abs/1907.00837))
+    * [x] RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation([CVPR'19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wandt_RepNet_Weakly_Supervised_Training_of_an_Adversarial_Reprojection_Network_for_CVPR_2019_paper.pdf))([code](https://github.com/bastianwandt/RepNet))
+    * [x] Bottom-up Higher-Resolution Networks for Multi-Person Pose Estimation ([arXiv](https://arxiv.org/abs/1908.10357))([code](https://github.com/HRNet/Higher-HRNet-Human-Pose-Estimation))
+    * [x] The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation ([arXiv](https://arxiv.org/abs/1911.07524))([zhihu](https://zhuanlan.zhihu.com/p/92525039))
+    * [x] MaskedFusion: Mask-based 6D Object Pose Detection ([arXiv](https://arxiv.org/abs/1911.07771))([code](https://github.com/kroglice/MaskedFusion))   
 
 
 ## 2019-12
@@ -41,36 +46,36 @@ A very busy month for preparing papers and final exams.
 
 ### Reading
 * Graph
-    * [ ] Multi-Stage Self-Supervised Learning for Graph Convolutional Networks ([arXiv](https://arxiv.org/pdf/1902.11038.pdf))
+    * [x] Multi-Stage Self-Supervised Learning for Graph Convolutional Networks ([arXiv](https://arxiv.org/pdf/1902.11038.pdf))
 * 3D Mesh Reconstruction
-    * [ ] Self-supervised Learning of Motion Capture([NIPS'17](http://papers.nips.cc/paper/7108-self-supervised-learning-of-motion-capture.pdf))([code](https://github.com/htung0101/3d_smpl))
-    * [ ] VIBE: Video Inference for Human Body Pose and Shape Estimation ([arXiv](https://arxiv.org/pdf/1912.05656v1.pdf))([code](https://github.com/mkocabas/VIBE))
+    * [x] Self-supervised Learning of Motion Capture([NIPS'17](http://papers.nips.cc/paper/7108-self-supervised-learning-of-motion-capture.pdf))([code](https://github.com/htung0101/3d_smpl))
+    * [x] VIBE: Video Inference for Human Body Pose and Shape Estimation ([arXiv](https://arxiv.org/pdf/1912.05656v1.pdf))([code](https://github.com/mkocabas/VIBE))
 * 2D Pose Estimation
-    * [ ] Pose Neural Fabrics Search ([arXiv](https://arxiv.org/pdf/1909.07068.pdf))([code](https://github.com/yangsenius/PoseNFS))
+    * [x] Pose Neural Fabrics Search ([arXiv](https://arxiv.org/pdf/1909.07068.pdf))([code](https://github.com/yangsenius/PoseNFS))
 
 * Detection
-    * [ ] EfficientDet: Scalable and Efficient Object Detection ([arXiv](https://arxiv.org/abs/1911.09070))([zhihu](https://zhuanlan.zhihu.com/p/93241232))
-    * [ ] Detectron2 ([project](https://github.com/facebookresearch/detectron2))
-    * [ ] ThunderNet: Towards Real-time Generic Object Detection ([ICCV19](https://arxiv.org/pdf/1903.11752.pdf))
-    * [ ] ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design([arXiv](https://arxiv.org/pdf/1807.11164.pdf))
-    * [ ] Light-Head R-CNN: In Defense of Two-Stage Object Detector([arXiv](https://arxiv.org/pdf/1711.07264.pdf))
+    * [x] EfficientDet: Scalable and Efficient Object Detection ([arXiv](https://arxiv.org/abs/1911.09070))([zhihu](https://zhuanlan.zhihu.com/p/93241232))
+    * [x] Detectron2 ([project](https://github.com/facebookresearch/detectron2))
+    * [x] ThunderNet: Towards Real-time Generic Object Detection ([ICCV19](https://arxiv.org/pdf/1903.11752.pdf))
+    * [x] ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design([arXiv](https://arxiv.org/pdf/1807.11164.pdf))
+    * [x] Light-Head R-CNN: In Defense of Two-Stage Object Detector([arXiv](https://arxiv.org/pdf/1711.07264.pdf))
 * NAS
-    * [ ] RC-DARTS: Resource Constrained Differentiable Architecture Search ([arXiv](https://arxiv.org/abs/1912.12814))
-    * [ ] Understanding and Robustifying Differentiable Architecture Search ([ICLR'20 oral](https://openreview.net/pdf?id=H1gDNyrKDS))([code](https://github.com/MetaAnonym/RobustDARTS))([review](https://openreview.net/forum?id=H1gDNyrKDS))
-    * [ ] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks ([arXiv](https://arxiv.org/pdf/1905.11946.pdf))([code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet))
-    * [ ] Blockwisely Supervised Neural Architecture Search with Knowledge Distillation ([arXiv](https://128.84.21.199/abs/1911.13053))
-    * [ ] Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search ([arXiv](https://arxiv.org/abs/1911.12126))([code](https://github.com/xiaomi-automl/fairdarts))
+    * [x] RC-DARTS: Resource Constrained Differentiable Architecture Search ([arXiv](https://arxiv.org/abs/1912.12814))
+    * [x] Understanding and Robustifying Differentiable Architecture Search ([ICLR'20 oral](https://openreview.net/pdf?id=H1gDNyrKDS))([code](https://github.com/MetaAnonym/RobustDARTS))([review](https://openreview.net/forum?id=H1gDNyrKDS))
+    * [x] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks ([arXiv](https://arxiv.org/pdf/1905.11946.pdf))([code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet))
+    * [x] Blockwisely Supervised Neural Architecture Search with Knowledge Distillation ([arXiv](https://128.84.21.199/abs/1911.13053))
+    * [x] Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search ([arXiv](https://arxiv.org/abs/1911.12126))([code](https://github.com/xiaomi-automl/fairdarts))
 * Pruning
-    * [ ] Global Sparse Momentum SGD for Pruning Very Deep Neural Networks ([NIPS'19](https://arxiv.org/pdf/1909.12778v3.pdf))([code](https://github.com/DingXiaoH/ACNet))
+    * [x] Global Sparse Momentum SGD for Pruning Very Deep Neural Networks ([NIPS'19](https://arxiv.org/pdf/1909.12778v3.pdf))([code](https://github.com/DingXiaoH/ACNet))
 * Render
-    * [ ] Few-shot Video-to-Video Synthesis ([NIPS'19](https://arxiv.org/pdf/1910.12713.pdf))([code](https://github.com/NVlabs/few-shot-vid2vid))
-    * [ ] Fashion++: Minimal Edits for Outfit Improvement ([ICCV19](https://arxiv.org/abs/1904.09261))([code](https://github.com/facebookresearch/FashionPlus)) : Borrow from [BicycGAN](https://github.com/junyanz/BicycleGAN) and [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
-    * [ ] DeepFovea: Neural Reconstruction for Foveated Rendering and Video Compression using Learned Statistics of Natural Videos ([Facebook Reality Labs](https://research.fb.com/wp-content/uploads/2019/11/DeepFovea-Neural-Reconstruction-for-Foveated-Rendering-and-Video-Compression-using-Learned-Statistics-of-Natural-Videos.pdf?))
-    * [ ] Animating Landscape: Self-Supervised Learning of Decoupled Motion and Appearance for Single-Image Video Synthesis ([TOG'19](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/animating_landscape_siga19.pdf))([project](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/))([code](https://github.com/endo-yuki-t/Animating-Landscape))
+    * [x] Few-shot Video-to-Video Synthesis ([NIPS'19](https://arxiv.org/pdf/1910.12713.pdf))([code](https://github.com/NVlabs/few-shot-vid2vid))
+    * [x] Fashion++: Minimal Edits for Outfit Improvement ([ICCV19](https://arxiv.org/abs/1904.09261))([code](https://github.com/facebookresearch/FashionPlus)) : Borrow from [BicycGAN](https://github.com/junyanz/BicycleGAN) and [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
+    * [x] DeepFovea: Neural Reconstruction for Foveated Rendering and Video Compression using Learned Statistics of Natural Videos ([Facebook Reality Labs](https://research.fb.com/wp-content/uploads/2019/11/DeepFovea-Neural-Reconstruction-for-Foveated-Rendering-and-Video-Compression-using-Learned-Statistics-of-Natural-Videos.pdf?))
+    * [x] Animating Landscape: Self-Supervised Learning of Decoupled Motion and Appearance for Single-Image Video Synthesis ([TOG'19](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/animating_landscape_siga19.pdf))([project](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/AnimatingLandscape/))([code](https://github.com/endo-yuki-t/Animating-Landscape))
 * RL
-    * [ ] Neural Painters: A learned differentiable constraint for generating brushstroke paintings ([arXiv](https://arxiv.org/pdf/1904.08410v2.pdf))([code](https://github.com/reiinakano/neural-painters))
+    * [x] Neural Painters: A learned differentiable constraint for generating brushstroke paintings ([arXiv](https://arxiv.org/pdf/1904.08410v2.pdf))([code](https://github.com/reiinakano/neural-painters))
 * Tracking
-    * [ ] You Only Look Once: Unified, Real-Time Object Detection ([arXiv](https://arxiv.org/abs/1506.02640))
+    * [x] You Only Look Once: Unified, Real-Time Object Detection ([arXiv](https://arxiv.org/abs/1506.02640))
 
 
 
