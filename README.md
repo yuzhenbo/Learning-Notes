@@ -2,30 +2,52 @@
 Research_Material - [Paper_List](topics/Paper_List.md) | Prog - [Programming](topics/programming.md)
 | QF-[Quantitative Finance](topics/quantitative_finace.md)
 
-## 2019-12
-Fortunately, i am invited to the award ceremony of IJSAI 2019.
-
+## 2020-1
 ### Study
 * Basic
-    * [X] Depthwise Separable Convolution ([Youtobe](https://www.youtube.com/watch?v=T7o3xvJLuHk))
-    * [ ] MobileNetV1([paper](https://arxiv.org/abs/1704.04861));MobileNetV2([paper]());MobileNetV3
-* GNN
-    * [ ] CS224W: Machine Learning with Graphs ([project](http://web.stanford.edu/class/cs224w/))
-    * [ ] Deep Learning on Graphs: a roadmap ([github](https://github.com/guillaumejaume/graph-neural-networks-roadmap))
-* pytorch acceleration
-    * [ ] dali ([install guide](https://docs.nvidia.com/deeplearning/sdk/dali-developer-guide/docs/installation.html))([code](https://github.com/NVIDIA/DALI))
-    * [ ] apex ([offical guide](https://nvidia.github.io/apex/index.html))([教程](https://chenyue.top/2019/05/21/%E5%B7%A5%E7%A8%8B-%E4%BA%94-apex%E6%B7%B7%E5%90%88%E7%B2%BE%E5%BA%A6%E5%8A%A0%E9%80%9F/))
+    * [ ] MobileNetV2([paper]());MobileNetV3
 
 ### Reading
-* 3D Mesh Reconstruction
-    * [ ] VIBE: Video Inference for Human Body Pose and Shape Estimation ([arXiv](https://arxiv.org/pdf/1912.05656v1.pdf))([code](https://github.com/mkocabas/VIBE))
-* 2D Pose Estimation
-    * [ ] Pose Neural Fabrics Search ([arXiv](https://arxiv.org/pdf/1909.07068.pdf))([code](https://github.com/yangsenius/PoseNFS))
+* Loss
+    * [ ] Bayesian Loss for Crowd Count Estimation with Point Supervision ([iccv19](https://arxiv.org/abs/1908.03684))([code](https://github.com/ZhihengCV/Bayesian-Crowd-Counting))
+* Unsupervised
+    * [ ] Object landmark discovery through unsupervised adaptation ([NIPS'19](https://papers.nips.cc/paper/9505-object-landmark-discovery-through-unsupervised-adaptation.pdf))([code](https://github.com/ESanchezLozano/SAIC-Unsupervised-landmark-detection-NeurIPS2019))
+    
 * 3D Pose Estimation
+    * [X] On Boosting Single-Frame 3D Human Pose Estimation via Monocular Videos ([iccv19](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_On_Boosting_Single-Frame_3D_Human_Pose_Estimation_via_Monocular_Videos_ICCV_2019_paper.pdf))
+    * [ ] XNect: Real-time Multi-person 3D Human Pose Estimation with a Single RGB Camera ([arXiv](https://arxiv.org/abs/1907.00837))
     * [ ] RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation([CVPR'19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wandt_RepNet_Weakly_Supervised_Training_of_an_Adversarial_Reprojection_Network_for_CVPR_2019_paper.pdf))([code](https://github.com/bastianwandt/RepNet))
     * [ ] Bottom-up Higher-Resolution Networks for Multi-Person Pose Estimation ([arXiv](https://arxiv.org/abs/1908.10357))([code](https://github.com/HRNet/Higher-HRNet-Human-Pose-Estimation))
     * [ ] The Devil is in the Details: Delving into Unbiased Data Processing for Human Pose Estimation ([arXiv](https://arxiv.org/abs/1911.07524))([zhihu](https://zhuanlan.zhihu.com/p/92525039))
     * [ ] MaskedFusion: Mask-based 6D Object Pose Detection ([arXiv](https://arxiv.org/abs/1911.07771))([code](https://github.com/kroglice/MaskedFusion))   
+
+
+## 2019-12
+Fortunately, i am invited to the award ceremony of IJSAI 2019.
+
+A very busy month for preparing papers and final exams.
+
+### Study
+* Basic
+    * [x] PyQt5 ([Tutorial](https://build-system.fman.io/pyqt5-tutorial))
+    * [X] Depthwise Separable Convolution ([Youtobe](https://www.youtube.com/watch?v=T7o3xvJLuHk))
+    * [x] MobileNetV1([paper](https://arxiv.org/abs/1704.04861))
+* GNN
+    * [x] CS224W: Machine Learning with Graphs ([project](http://web.stanford.edu/class/cs224w/))
+    * [X] Deep Learning on Graphs: a roadmap ([github](https://github.com/guillaumejaume/graph-neural-networks-roadmap))
+* pytorch acceleration
+    * [x] dali ([install guide](https://docs.nvidia.com/deeplearning/sdk/dali-developer-guide/docs/installation.html))([code](https://github.com/NVIDIA/DALI))
+    * [x] apex ([offical guide](https://nvidia.github.io/apex/index.html))([教程](https://chenyue.top/2019/05/21/%E5%B7%A5%E7%A8%8B-%E4%BA%94-apex%E6%B7%B7%E5%90%88%E7%B2%BE%E5%BA%A6%E5%8A%A0%E9%80%9F/))
+
+### Reading
+* Graph
+    * [ ] Multi-Stage Self-Supervised Learning for Graph Convolutional Networks ([arXiv](https://arxiv.org/pdf/1902.11038.pdf))
+* 3D Mesh Reconstruction
+    * [ ] Self-supervised Learning of Motion Capture([NIPS'17](http://papers.nips.cc/paper/7108-self-supervised-learning-of-motion-capture.pdf))([code](https://github.com/htung0101/3d_smpl))
+    * [ ] VIBE: Video Inference for Human Body Pose and Shape Estimation ([arXiv](https://arxiv.org/pdf/1912.05656v1.pdf))([code](https://github.com/mkocabas/VIBE))
+* 2D Pose Estimation
+    * [ ] Pose Neural Fabrics Search ([arXiv](https://arxiv.org/pdf/1909.07068.pdf))([code](https://github.com/yangsenius/PoseNFS))
+
 * Detection
     * [ ] EfficientDet: Scalable and Efficient Object Detection ([arXiv](https://arxiv.org/abs/1911.09070))([zhihu](https://zhuanlan.zhihu.com/p/93241232))
     * [ ] Detectron2 ([project](https://github.com/facebookresearch/detectron2))
@@ -33,6 +55,8 @@ Fortunately, i am invited to the award ceremony of IJSAI 2019.
     * [ ] ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design([arXiv](https://arxiv.org/pdf/1807.11164.pdf))
     * [ ] Light-Head R-CNN: In Defense of Two-Stage Object Detector([arXiv](https://arxiv.org/pdf/1711.07264.pdf))
 * NAS
+    * [ ] RC-DARTS: Resource Constrained Differentiable Architecture Search ([arXiv](https://arxiv.org/abs/1912.12814))
+    * [ ] Understanding and Robustifying Differentiable Architecture Search ([ICLR'20 oral](https://openreview.net/pdf?id=H1gDNyrKDS))([code](https://github.com/MetaAnonym/RobustDARTS))([review](https://openreview.net/forum?id=H1gDNyrKDS))
     * [ ] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks ([arXiv](https://arxiv.org/pdf/1905.11946.pdf))([code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet))
     * [ ] Blockwisely Supervised Neural Architecture Search with Knowledge Distillation ([arXiv](https://128.84.21.199/abs/1911.13053))
     * [ ] Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search ([arXiv](https://arxiv.org/abs/1911.12126))([code](https://github.com/xiaomi-automl/fairdarts))
