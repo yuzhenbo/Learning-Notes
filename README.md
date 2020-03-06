@@ -2,15 +2,27 @@
 Research_Material - [Paper_List](topics/Paper_List.md) | Prog - [Programming](topics/programming.md)
 | QF-[Quantitative Finance](topics/quantitative_finace.md)
 
+## 2020-3
+Work hard for NiPS! Time is tight, and i hope i can catch up!
+
+Preparing supplementary material for ECCV.
+
 ## 2020-2
-### Study
-### Reading
+A very busy month for submitting ECCV and CVPR rebuttal. 
+
+Luckily, our paper "Deep Kinematics Analysis for Monocular 3D Pose Estimation" has been accepted by CVPR. 
+# Reading
+* Graph
+    * [x] Multi-Stage Self-Supervised Learning for Graph Convolutional Networks ([arXiv](https://arxiv.org/pdf/1902.11038.pdf))
+* 3D Mesh Reconstruction
+    * [x] Self-supervised Learning of Motion Capture([NIPS'17](http://papers.nips.cc/paper/7108-self-supervised-learning-of-motion-capture.pdf))([code](https://github.com/htung0101/3d_smpl))
+    * [x] VIBE: Video Inference for Human Body Pose and Shape Estimation ([arXiv](https://arxiv.org/pdf/1912.05656v1.pdf))([code](https://github.com/mkocabas/VIBE))
+* 2D Pose Estimation
+    * [x] Pose Neural Fabrics Search ([arXiv](https://arxiv.org/pdf/1909.07068.pdf))([code](https://github.com/yangsenius/PoseNFS))
+
 
 ## 2020-1
-Chinese new year is comming, I wish all Chinese could be safe under the threat of 2019-nCoV, hope everything works well.
-### Study
-* Basic
-    * [ ] MobileNetV2([paper]());MobileNetV3
+Super busy but less productive. Chinese new year is comming, I wish all Chinese could be safe under the threat of 2019-nCoV, hope everything works well.
 
 ### Reading
 * Loss
@@ -45,13 +57,6 @@ A very busy month for preparing papers and final exams.
     * [x] apex ([offical guide](https://nvidia.github.io/apex/index.html))([教程](https://chenyue.top/2019/05/21/%E5%B7%A5%E7%A8%8B-%E4%BA%94-apex%E6%B7%B7%E5%90%88%E7%B2%BE%E5%BA%A6%E5%8A%A0%E9%80%9F/))
 
 ### Reading
-* Graph
-    * [x] Multi-Stage Self-Supervised Learning for Graph Convolutional Networks ([arXiv](https://arxiv.org/pdf/1902.11038.pdf))
-* 3D Mesh Reconstruction
-    * [x] Self-supervised Learning of Motion Capture([NIPS'17](http://papers.nips.cc/paper/7108-self-supervised-learning-of-motion-capture.pdf))([code](https://github.com/htung0101/3d_smpl))
-    * [x] VIBE: Video Inference for Human Body Pose and Shape Estimation ([arXiv](https://arxiv.org/pdf/1912.05656v1.pdf))([code](https://github.com/mkocabas/VIBE))
-* 2D Pose Estimation
-    * [x] Pose Neural Fabrics Search ([arXiv](https://arxiv.org/pdf/1909.07068.pdf))([code](https://github.com/yangsenius/PoseNFS))
 
 * Detection
     * [x] EfficientDet: Scalable and Efficient Object Detection ([arXiv](https://arxiv.org/abs/1911.09070))([zhihu](https://zhuanlan.zhihu.com/p/93241232))
