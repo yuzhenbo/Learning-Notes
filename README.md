@@ -11,7 +11,12 @@ Preparing supplementary material for ECCV.
 A very busy month for submitting ECCV and CVPR rebuttal. 
 
 Luckily, our paper "Deep Kinematics Analysis for Monocular 3D Pose Estimation" has been accepted by CVPR. 
-# Reading
+
+
+## 2020-1
+Super busy but less productive. Chinese new year is comming, I wish all Chinese could be safe under the threat of 2019-nCoV, hope everything works well.
+
+### Reading
 * Graph
     * [x] Multi-Stage Self-Supervised Learning for Graph Convolutional Networks ([arXiv](https://arxiv.org/pdf/1902.11038.pdf))
 * 3D Mesh Reconstruction
@@ -19,12 +24,6 @@ Luckily, our paper "Deep Kinematics Analysis for Monocular 3D Pose Estimation" h
     * [x] VIBE: Video Inference for Human Body Pose and Shape Estimation ([arXiv](https://arxiv.org/pdf/1912.05656v1.pdf))([code](https://github.com/mkocabas/VIBE))
 * 2D Pose Estimation
     * [x] Pose Neural Fabrics Search ([arXiv](https://arxiv.org/pdf/1909.07068.pdf))([code](https://github.com/yangsenius/PoseNFS))
-
-
-## 2020-1
-Super busy but less productive. Chinese new year is comming, I wish all Chinese could be safe under the threat of 2019-nCoV, hope everything works well.
-
-### Reading
 * Loss
     * [x] Bayesian Loss for Crowd Count Estimation with Point Supervision ([iccv19](https://arxiv.org/abs/1908.03684))([code](https://github.com/ZhihengCV/Bayesian-Crowd-Counting))
 * Unsupervised
