@@ -28,7 +28,6 @@ Preparing supplementary material for ECCV.
 * 3D Pose Estimation
     * [ ] Metric-Scale Truncation-Robust Heatmaps for 3D Human Pose Estimation ([FG](https://arxiv.org/pdf/2003.02953.pdf)) 
     * [ ] Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS ([CVPR'20](https://arxiv.org/abs/2003.03972))
-    * [ ] 
 
 ## 2020-2
 A very busy month for submitting ECCV and CVPR rebuttal. 
