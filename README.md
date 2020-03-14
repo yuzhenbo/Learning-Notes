@@ -3,15 +3,37 @@ Research_Material - [Paper_List](topics/Paper_List.md) | Prog - [Programming](to
 | QF-[Quantitative Finance](topics/quantitative_finace.md)
 
 ## 2020-3
-Work hard for NiPS! Time is tight, and i hope i can catch up!
-
+Work hard for NIPS! Time is tight, and i hope i can catch up!
 Preparing supplementary material for ECCV.
+### Study
+* Basic
+    * [ ] Human Pose Paper ([paper](https://github.com/wangzheallen/awesome-human-pose-estimation))
+    * [ ] Kaolin  ([intro](http://www.myzaker.com/article/5dcf849f8e9f09088c4bfdf6/))([project](https://github.com/NVIDIAGameWorks/kaolin/))
+### Reading
+* Unsupervised 3D Mesh Reconstruction
+    * [ ] Learning Body Shape and Pose from Dense Correspondences ([arXiv](https://arxiv.org/pdf/1907.11955.pdf))
+    * [ ] Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop [**SPIN**] ([ICCV'19](https://arxiv.org/abs/1909.12828))([code](https://www.seas.upenn.edu/~nkolot/projects/spin/))
+* 3D Mesh Reconstruction
+    * [ ] Learning to Estimate 3D Human Pose and Shape from a Single Color Image ([CVPR'18](https://arxiv.org/abs/1805.04092))
+    * [ ] Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer ([NIPS'19](https://arxiv.org/abs/1908.01210))([code](https://nv-tlabs.github.io/DIB-R/))
+    * [ ] Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning ([CVPR'19](https://arxiv.org/abs/1904.01786))([code](https://github.com/ShichenLiu/SoftRas))
+    * [x] VIBE: Video Inference for Human Body Pose and Shape Estimation ([arXiv](https://arxiv.org/pdf/1912.05656v1.pdf))([code](https://github.com/mkocabas/VIBE))
+    * [ ] Neural 3D Mesh Renderer ([code](https://github.com/hiroharu-kato/neural_renderer))
+    * [ ] learning 3d human dynamics from video ([CVPR'19](https://arxiv.org/abs/1812.01601))([code](https://akanazawa.github.io/human_dynamics/))
+    * [ ] Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image ([ECCV'16](https://arxiv.org/abs/1607.08128))
+    * [ ] MobilePose: Real-Time Pose Estimation for Unseen Objects with Weak Shape Supervision ([CVPR'20](https://arxiv.org/abs/2003.03522))
+    * [ ] Meta3D: Single-View 3D Object Reconstruction from Shape Priors in Memory ([ECCV'20](https://arxiv.org/abs/2003.03711))
+* 3D Detection
+    * [ ] Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud ([CVPR'20](https://arxiv.org/abs/2003.01251))([code](https://github.com/WeijingShi/Point-GNN))
+* 3D Pose Estimation
+    * [ ] Metric-Scale Truncation-Robust Heatmaps for 3D Human Pose Estimation ([FG](https://arxiv.org/pdf/2003.02953.pdf)) 
+    * [ ] Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS ([CVPR'20](https://arxiv.org/abs/2003.03972))
+    * [ ] 
 
 ## 2020-2
 A very busy month for submitting ECCV and CVPR rebuttal. 
 
 Luckily, our paper "Deep Kinematics Analysis for Monocular 3D Pose Estimation" has been accepted by CVPR. 
-
 
 ## 2020-1
 Super busy but less productive. Chinese new year is comming, I wish all Chinese could be safe under the threat of 2019-nCoV, hope everything works well.
