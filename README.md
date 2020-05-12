@@ -2,8 +2,24 @@
 Research_Material - [Paper_List](topics/Paper_List.md) | Prog - [Programming](topics/programming.md)
 | QF-[Quantitative Finance](topics/quantitative_finace.md)
 
-## 2020-4
+## 2020-5
+### Reading
+* 3D Matching and Control
+    * [x] Predicting Animation Skeletons for 3D Articulated Models via Volumetric Nets ([3DV'19](https://arxiv.org/abs/1908.08506))([code](https://github.com/zhan-xu/AnimSkelVolNet))
+    * [x] RigNet: Neural Rigging for Articulated Characters ([SIGGRAPH'20](https://people.cs.umass.edu/~zhanxu/papers/RigNet.pdf))([code](https://people.cs.umass.edu/~zhanxu/papers/RigNet.pdf))
 
+## 2020-4
+### Reading
+* 3D Mesh Reconstruction
+    * [x] C3DPO: Canonical 3D Pose Networks for Non-Rigid Structure From Motion ([arXiv](https://arxiv.org/pdf/1909.02533.pdf))([code](https://github.com/facebookresearch/c3dpo_nrsfm))
+* Dense Pose
+    * [x] DensePose: Dense Human Pose Estimation In The Wild ([CVPR'18](https://arxiv.org/pdf/1802.00434.pdf))([code](https://github.com/facebookresearch/DensePose))
+    * [x] Canonical Surface Mapping via Geometric Cycle Consistency ([ICCV'19](https://arxiv.org/abs/1907.10043?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29))([code](https://github.com/nileshkulkarni/csm/))
+    * [x] SCOPS: Self-Supervised Co-Part Segmentation ([CVPR'19](https://arxiv.org/abs/1905.01298))
+    * [X] Slim DensePose: Thrifty Learning from Sparse Annotations and Motion Cues ([CVPR'19](https://arxiv.org/abs/1906.05706))
+* 3D Pose Estimation
+    * [x] Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation ([arXiv](https://arxiv.org/pdf/2004.03143.pdf))([code](http://wangzheallen.github.io/cross-dataset-generalization))
+    
 
 ## 2020-3
 Work hard for NIPS and TPAMI.
