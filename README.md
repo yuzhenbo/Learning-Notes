@@ -2,9 +2,15 @@
 Research_Material - [Paper_List](topics/Paper_List.md) | Prog - [Programming](topics/programming.md)
 | QF-[Quantitative Finance](topics/quantitative_finace.md)
 
+## 2020-6
+### Reading
+
+
 ## 2020-5
+I submitted one paper for NIPS,  and prepare for AAAI and ICLR ddl.
 ### Reading
 * 3D Matching and Control
+    * [x] Human Motion Mapping to a Robot arm with Redundancy Resolution ([paper'14](file:///D:/paper/ark2014.pdf))
     * [x] Predicting Animation Skeletons for 3D Articulated Models via Volumetric Nets ([3DV'19](https://arxiv.org/abs/1908.08506))([code](https://github.com/zhan-xu/AnimSkelVolNet))
     * [x] RigNet: Neural Rigging for Articulated Characters ([SIGGRAPH'20](https://people.cs.umass.edu/~zhanxu/papers/RigNet.pdf))([code](https://people.cs.umass.edu/~zhanxu/papers/RigNet.pdf))
 
