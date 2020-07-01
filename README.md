@@ -2,10 +2,20 @@
 Research_Material - [Paper_List](topics/Paper_List.md) | Prog - [Programming](topics/programming.md)
 | QF-[Quantitative Finance](topics/quantitative_finace.md)
 
+## 2020-7
+
+
 ## 2020-6
+I start one new task about fluid construction and robot control in Huawei. My research have little progress,  i need focus. 
 ### Reading
-
-
+* 3D control
+    * [ ] TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting ([cvpr'20](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_TransMoMo_Invariance-Driven_Unsupervised_Video_Motion_Retargeting_CVPR_2020_paper.pdf))([code](https://yzhq97.github.io/transmomo/))
+    * [ ] Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild ([cvpr'20](http://openaccess.thecvf.com/content_CVPR_2020/papers/Iqbal_Weakly-Supervised_3D_Human_Pose_Learning_via_Multi-View_Images_in_the_CVPR_2020_paper.pdf))
+* 3D face
+    * [ ] Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild ([cvpr'20](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Unsupervised_Learning_of_Probably_Symmetric_Deformable_3D_Objects_From_Images_CVPR_2020_paper.pdf))([code](https://www.youtube.com/watch?v=5rPJyrU-WE4))
+    * [x] Rotate-and-Render: Unsupervised Photorealistic Face Rotation from Single-View Images ([cvpr'20](https://arxiv.org/abs/2003.08124))
+    * [x] RetinaFace: Single-shot Multi-level Face Localisation in the Wild ([cvpr'20](http://openaccess.thecvf.com/content_CVPR_2020/papers/Deng_RetinaFace_Single-Shot_Multi-Level_Face_Localisation_in_the_Wild_CVPR_2020_paper.pdf))
+    
 ## 2020-5
 I submitted one paper for NIPS,  and prepare for AAAI and ICLR ddl.
 ### Reading
