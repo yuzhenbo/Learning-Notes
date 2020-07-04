@@ -3,7 +3,14 @@ Research_Material - [Paper_List](topics/Paper_List.md) | Prog - [Programming](to
 | QF-[Quantitative Finance](topics/quantitative_finace.md)
 
 ## 2020-7
-
+* 3D human
+    * [x] DeepCap: Monocular Human Performance Capture Using Weak Supervision ([cvpr'20](https://people.mpi-inf.mpg.de/~mhaberma/projects/2020-cvpr-deepcap/data/paper.pdf))([project](https://people.mpi-inf.mpg.de/~mhaberma/projects/2020-cvpr-deepcap/))
+    * [ ] TexMesh: Reconstructing Human Texture and Geometry from Monocular Video([eccv'20])([project](https://www.youtube.com/watch?v=m3mF3b3NKdQ))
+* Inplicit field
+    * [x] Learning Implicit Fields for Generative Shape Modeling ([cvpr'19](https://arxiv.org/pdf/1812.02822.pdf))
+    * [x] BAE-NET: Branched Autoencoder for Shape Co-Segmentation ([iccv'19](https://arxiv.org/abs/1903.11228))
+    * [x] BSP-Net: Generating Compact Meshes via Binary Space Partitioning ([cvpr'20](https://arxiv.org/abs/1911.06971))
+    
 
 ## 2020-6
 I start one new task about fluid construction and robot control in Huawei. My research have little progress,  i need focus. 
