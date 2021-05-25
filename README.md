@@ -2,59 +2,70 @@
 Research_Material - [Paper_List](topics/Paper_List.md) | Prog - [Programming](topics/programming.md)
 | QF-[Quantitative Finance](topics/quantitative_finace.md)
 
+## 2021-5
+
+* Mesh deformation (cage based)
+
+* Mesh control (bone based)
+    * [x] Skeleton-Aware Networks for Deep Motion Retargeting ([SIGGRAPH'20](https://arxiv.org/abs/2005.05732)) ([code](https://github.com/DeepMotionEditing/deep-motion-editing)) ([project](https://www.youtube.com/watch?v=ym8Tnmiz5N8))
+    * [x] Learning Skeletal Articulations with Neural Blend Shapes ([SIGGRAPH'21](https://arxiv.org/abs/2105.02451)) ([code](https://github.com/PeizhuoLi/neural-blend-shapes))
+    * [x] HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction ([CGIT](https://arxiv.org/pdf/2103.10602.pdf))
+
+* Physical control
+
 
 ## 2020-11
 * Basic
-    * [ ] Motion builder
-    * [ ] Deepmind-research ([code](https://github.com/deepmind/deepmind-research))
+    * [x] Motion builder
+    * [x] Deepmind-research ([code](https://github.com/deepmind/deepmind-research))
 
 * 3D human
-    * [ ] Inference Stage Optimization for Cross-scenario 3D Human Pose Estimation ([Arxiv](https://arxiv.org/abs/2007.02054)) (shows generalization of 3D pose estimation)
-    * [ ] View-Invariant Probabilistic Embedding for Human Pose ([eccv'20](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500052.pdf)) ([code](https://github.com/google-research/google-research/tree/master/poem)) (pose invariant)
-    * [ ] Multi-Scale Networks for 3D Human Pose Estimation with Inference Stage Optimization ([Arxiv](https://arxiv.org/abs/2010.06844)) (shows generalization)
-    * [ ] CAPE: Clothed Auto-Person Encoding ([CVPR'20](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ma_Learning_to_Dress_3D_People_in_Generative_Clothing_CVPR_2020_paper.pdf)) ([code](https://github.com/QianliM/CAPE)) (interesting, just invariant of SMPL)
-    * [ ] XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera ([SIGGRAPH'20](http://gvv.mpi-inf.mpg.de/projects/XNect/content/XNect_SIGGRAPH2020.pdf)) 
+    * [x] Inference Stage Optimization for Cross-scenario 3D Human Pose Estimation ([Arxiv](https://arxiv.org/abs/2007.02054)) (shows generalization of 3D pose estimation)
+    * [x] View-Invariant Probabilistic Embedding for Human Pose ([eccv'20](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500052.pdf)) ([code](https://github.com/google-research/google-research/tree/master/poem)) (pose invariant)
+    * [x] Multi-Scale Networks for 3D Human Pose Estimation with Inference Stage Optimization ([Arxiv](https://arxiv.org/abs/2010.06844)) (shows generalization)
+    * [x] CAPE: Clothed Auto-Person Encoding ([CVPR'20](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ma_Learning_to_Dress_3D_People_in_Generative_Clothing_CVPR_2020_paper.pdf)) ([code](https://github.com/QianliM/CAPE)) (interesting, just invariant of SMPL)
+    * [x] XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera ([SIGGRAPH'20](http://gvv.mpi-inf.mpg.de/projects/XNect/content/XNect_SIGGRAPH2020.pdf)) 
 
 * Retargeting
-    * [ ] Skeleton-Aware Networks for Deep Motion Retargeting ([SIGGRAPH'20](https://arxiv.org/abs/2005.05732)) ([code](https://github.com/DeepMotionEditing/deep-motion-editing)) ([project](https://www.youtube.com/watch?v=ym8Tnmiz5N8))
-    * [ ] Unpaired Motion Style Transfer from Video to Animation ([SIGGRAPH'20](https://deepmotionediting.github.io/style_transfer)) ([code](https://github.com/DeepMotionEditing/deep-motion-editing)) (Application for skeleton-aware task)
+    * [x] Skeleton-Aware Networks for Deep Motion Retargeting ([SIGGRAPH'20](https://arxiv.org/abs/2005.05732)) ([code](https://github.com/DeepMotionEditing/deep-motion-editing)) ([project](https://www.youtube.com/watch?v=ym8Tnmiz5N8))
+    * [x] Unpaired Motion Style Transfer from Video to Animation ([SIGGRAPH'20](https://deepmotionediting.github.io/style_transfer)) ([code](https://github.com/DeepMotionEditing/deep-motion-editing)) (Application for skeleton-aware task)
 
 * Control
-    * [ ] Character Controllers using Motion VAEs ([SIGGRAPH'20](https://www.cs.ubc.ca/~van/papers/2020-TOG-MVAE/2020-TOG-MVAE.pdf)) ([prject](https://www.cs.ubc.ca/~hyuling/projects/mvae/)) (exciting direction, worth reading)
-    * [ ] Accurate Face Rig Approximation with Deep Differential Subspace Reconstruction ([SIGGRAPH'20](https://arxiv.org/pdf/2006.01746.pdf)) (related work may be useful)
-    * [ ] A scalable Approach to Control Diverse Behaviors for Physically Simulated Characters ([SIGGRAPH'20](https://research.fb.com/wp-content/uploads/2020/06/A-Scalable-Approach-to-Control-Diverse-Behaviors-for-Physically-Simulated-Characters.pdf)) ([code](https://github.com/facebookresearch/ScaDiver)) (obtain scalable and diverse character)
+    * [x] Character Controllers using Motion VAEs ([SIGGRAPH'20](https://www.cs.ubc.ca/~van/papers/2020-TOG-MVAE/2020-TOG-MVAE.pdf)) ([prject](https://www.cs.ubc.ca/~hyuling/projects/mvae/)) (exciting direction, worth reading)
+    * [x] Accurate Face Rig Approximation with Deep Differential Subspace Reconstruction ([SIGGRAPH'20](https://arxiv.org/pdf/2006.01746.pdf)) (related work may be useful)
+    * [x] A scalable Approach to Control Diverse Behaviors for Physically Simulated Characters ([SIGGRAPH'20](https://research.fb.com/wp-content/uploads/2020/06/A-Scalable-Approach-to-Control-Diverse-Behaviors-for-Physically-Simulated-Characters.pdf)) ([code](https://github.com/facebookresearch/ScaDiver)) (obtain scalable and diverse character)
 
 * Human Character
-    * [ ] Catch & Carry: Reusable Neural Controllers for Vision-Guided Whole-Body Tasks ([SIGGRAPH'20](https://arxiv.org/pdf/1911.06636.pdf)) (deepmind; need testing for platform)
-    * [ ] Example-driven Virtual Cinematography by Learning Camera Behaviors ([SIGGRAPH'20](https://jianghd1996.github.io/publication/sig_2020/SIG_2020.pdf)) ([code](https://github.com/jianghd1996/Camera-control/tree/master/SIGGRAPH_2020))  (exciting and promising; very good work to follow)
-    * [ ] Robust Motion In-betweening ([SIGGRAPH'20](https://montreal.ubisoft.com/fr/robust-motion-in-betweening/)) (character between frames)
+    * [x] Catch & Carry: Reusable Neural Controllers for Vision-Guided Whole-Body Tasks ([SIGGRAPH'20](https://arxiv.org/pdf/1911.06636.pdf)) (deepmind; need testing for platform)
+    * [x] Example-driven Virtual Cinematography by Learning Camera Behaviors ([SIGGRAPH'20](https://jianghd1996.github.io/publication/sig_2020/SIG_2020.pdf)) ([code](https://github.com/jianghd1996/Camera-control/tree/master/SIGGRAPH_2020))  (exciting and promising; very good work to follow)
+    * [x] Robust Motion In-betweening ([SIGGRAPH'20](https://montreal.ubisoft.com/fr/robust-motion-in-betweening/)) (character between frames)
     
 
 * Robot 
-    * [ ] Fast and Flexible Multilegged Locomotion Using Learned Centroidal Dynamics ([SIGGRAPH'20](http://calab.hanyang.ac.kr/papers/paper_flexLoco.pdf)) ([code](https://github.com/taesoobear/IPCDNNwalk)) (How to establish platform for extend research)
-    * [ ] Learned Motion Matching ([SIGGRAPH'20](https://static-wordpress.akamaized.net/montreal.ubisoft.com/wp-content/uploads/2020/07/09154101/Learned_Motion_Matching.pdf)) (interactive robot and ground)
-    * [ ] Model Predictive Control with a Visuomotor System for Physics-based Character Animation ([SIGGRAPH'20](https://vml.kaist.ac.kr/assets/Contents/Publications/International/2019HaegwangEom_TOG/2019HaegwangEom.pdf)) ([project](https://vml.kaist.ac.kr/main/international/individual/168))
+    * [x] Fast and Flexible Multilegged Locomotion Using Learned Centroidal Dynamics ([SIGGRAPH'20](http://calab.hanyang.ac.kr/papers/paper_flexLoco.pdf)) ([code](https://github.com/taesoobear/IPCDNNwalk)) (How to establish platform for extend research)
+    * [x] Learned Motion Matching ([SIGGRAPH'20](https://static-wordpress.akamaized.net/montreal.ubisoft.com/wp-content/uploads/2020/07/09154101/Learned_Motion_Matching.pdf)) (interactive robot and ground)
+    * [x] Model Predictive Control with a Visuomotor System for Physics-based Character Animation ([SIGGRAPH'20](https://vml.kaist.ac.kr/assets/Contents/Publications/International/2019HaegwangEom_TOG/2019HaegwangEom.pdf)) ([project](https://vml.kaist.ac.kr/main/international/individual/168))
     
 * Virtual Reality
-    * [ ] Holographic Optics for Thin and Lightweight Virtual Reality ([SIGGRAPH'20](https://research.fb.com/wp-content/uploads/2020/06/Holographic-Optics-for-Thin-and-Lightweight-Virtual-Reality.pdf))
+    * [x] Holographic Optics for Thin and Lightweight Virtual Reality ([SIGGRAPH'20](https://research.fb.com/wp-content/uploads/2020/06/Holographic-Optics-for-Thin-and-Lightweight-Virtual-Reality.pdf))
 
 * Render
-    * [ ] Enlighten Me: Importance of Brightness and Shadow for Character Emotion and Appeal ([SIGGRAPH'20](https://www.scss.tcd.ie/Rachel.McDonnell/EnlightenMe/pdf/wisessing2020.pdf)) (more details)
+    * [x] Enlighten Me: Importance of Brightness and Shadow for Character Emotion and Appeal ([SIGGRAPH'20](https://www.scss.tcd.ie/Rachel.McDonnell/EnlightenMe/pdf/wisessing2020.pdf)) (more details)
 
 * Flow
-    * [ ] Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening ([SIGGRAPH'20](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduced_fluids.pdf)) ([code](https://github.com/rgoldade/ReducedFluids))
-    * [ ] Fast and Scalable Turbulent Flow Simulation with Two-Way Coupling ([SIGGRAPH'20](http://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/projects/lbm-solid/index/lbm-solid.pdf)) ([project](http://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/projects/lbm-solid/index.htm))
-    * [ ] Lagrangian Neural Style Transfer for Fluids ([SIGGRAPH'20](https://arxiv.org/pdf/2005.00803v1.pdf)) (image to 3D fluid transfer)
-    * [ ] Wave Curves: Simulating Lagrangian water waves on dynamically deforming surfaces ([SIGGRAPH'20](https://dl.acm.org/doi/pdf/10.1145/3386569.3392466)) (enhance detail of a water surface simulation)
+    * [x] Constraint Bubbles and Affine Regions: Reduced Fluid Models for Efficient Immersed Bubbles and Flexible Spatial Coarsening ([SIGGRAPH'20](https://cs.uwaterloo.ca/~c2batty/papers/Goldade2020/reduced_fluids.pdf)) ([code](https://github.com/rgoldade/ReducedFluids))
+    * [x] Fast and Scalable Turbulent Flow Simulation with Two-Way Coupling ([SIGGRAPH'20](http://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/projects/lbm-solid/index/lbm-solid.pdf)) ([project](http://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/projects/lbm-solid/index.htm))
+    * [x] Lagrangian Neural Style Transfer for Fluids ([SIGGRAPH'20](https://arxiv.org/pdf/2005.00803v1.pdf)) (image to 3D fluid transfer)
+    * [x] Wave Curves: Simulating Lagrangian water waves on dynamically deforming surfaces ([SIGGRAPH'20](https://dl.acm.org/doi/pdf/10.1145/3386569.3392466)) (enhance detail of a water surface simulation)
     
 
 * Non-rigid
-    * [ ] Homogenized Yarn-Level Cloth ([SIGGRAPH'20](http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper.pdf)) ([project](http://visualcomputing.ist.ac.at/publications/2020/HYLC/)) (platform for clothing + skeleton)
-    * [ ] Incremental Potential Contact: Intersection- and Inversion-free, Large-Deformation Dynamics ([SIGGRAPH'20](https://ipc-sim.github.io/file/IPC-paper-fullRes.pdf)) ([project](https://ipc-sim.github.io/)) ([code](https://github.com/ipc-sim/IPC)) (worth doing this + make person or object soft)
-    * [ ] Interface Quadrature Material Point Method for Non-sticky Strongly Two-Way Coupled Nonlinear Solids and Fluids ([SIGGRAPH'20](https://yzhu.io/publication/mpmcoupling2020siggraph/paper.pdf)) ([project](https://yzhu.io/publication/mpmcoupling2020siggraph/)) (traditional)
-    * [ ] Phong Deformation: A Better CO Interpolant for Embedded Deformation ([SIGGRAPH'20](http://graphics.pixar.com/library/PhongDefo/paper.pdf)) (make mesh soft + math) 
-    * [ ] Projective Dynamics with Dry Frictional Contact ([project](http://elan.inrialpes.fr/people/bertails/#publis)) (hair + cloth based on one author)
-    * [ ] Robust Eulerian-On-Lagrangian Rods ([project](http://mslab.es/projects/RobustEOLRods/)) (cloth)
+    * [x] Homogenized Yarn-Level Cloth ([SIGGRAPH'20](http://pub.ist.ac.at/group_wojtan/projects/2020_Sperl_HYLC/2020_HYLC_paper.pdf)) ([project](http://visualcomputing.ist.ac.at/publications/2020/HYLC/)) (platform for clothing + skeleton)
+    * [x] Incremental Potential Contact: Intersection- and Inversion-free, Large-Deformation Dynamics ([SIGGRAPH'20](https://ipc-sim.github.io/file/IPC-paper-fullRes.pdf)) ([project](https://ipc-sim.github.io/)) ([code](https://github.com/ipc-sim/IPC)) (worth doing this + make person or object soft)
+    * [x] Interface Quadrature Material Point Method for Non-sticky Strongly Two-Way Coupled Nonlinear Solids and Fluids ([SIGGRAPH'20](https://yzhu.io/publication/mpmcoupling2020siggraph/paper.pdf)) ([project](https://yzhu.io/publication/mpmcoupling2020siggraph/)) (traditional)
+    * [x] Phong Deformation: A Better CO Interpolant for Embedded Deformation ([SIGGRAPH'20](http://graphics.pixar.com/library/PhongDefo/paper.pdf)) (make mesh soft + math) 
+    * [x] Projective Dynamics with Dry Frictional Contact ([project](http://elan.inrialpes.fr/people/bertails/#publis)) (hair + cloth based on one author)
+    * [x] Robust Eulerian-On-Lagrangian Rods ([project](http://mslab.es/projects/RobustEOLRods/)) (cloth)
 
 
 ## 2020-10
